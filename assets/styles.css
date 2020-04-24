@@ -41,6 +41,10 @@ main {
     border-radius: 3px;
 }
 
+.button:hover {
+    opacity: 0.5;
+}
+
 .display-area {
     background-color: black;
     width: 100%;
